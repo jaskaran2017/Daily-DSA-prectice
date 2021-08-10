@@ -1,4 +1,4 @@
-//Q1 :- Lucky_seven
+//Q2 :- Lucky_seven
 //Problem :- Write a function called Lucky_seven which takes an array of integers and return true if
 // any three consecutive elements sum to 7.
 
